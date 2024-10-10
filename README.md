@@ -1,0 +1,1 @@
+# ExercicioPraticoTDD-QTSW
